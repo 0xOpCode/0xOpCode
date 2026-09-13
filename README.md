@@ -97,6 +97,15 @@
 
 ---
 
+### ⚙️ [daemon-kernel-builder](https://github.com/0xOpCode/daemon-kernel-builder)
+> **Automated Arch Linux Kernel Build Matrix with BORE Scheduler**
+- Cloud-native continuous compilation pipeline for Arch Linux incorporating the BORE CPU scheduler, 1000 Hz desktop preemption, and target microcode optimizations.
+- Zero-local-compute pipeline compiling full `.pkg.tar.zst` packages and dispatching binary releases via GitHub Actions runners.
+- **Tech:** `Arch Linux` • `Linux Kernel` • `BORE Scheduler` • `GitHub Actions CI/CD` • `PKGBUILD`
+
+---
+
+
 ### 🚀 [astrotemplate](https://github.com/0xOpCode/astrotemplate)
 > **Modern Web Architecture Starter: Astro 5, React 19 & Tailwind**
 - Production-grade starter kit implementing Astro Islands architecture for zero-JS runtime baseline.
