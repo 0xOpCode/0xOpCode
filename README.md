@@ -72,6 +72,15 @@
 
 ---
 
+### 🎮 [CyberTacToe](https://github.com/0xOpCode/cybertactoe)
+> **Neon Cyberpunk Tic Tac Toe with Unbeatable Minimax AI Engine**
+- High-polish interactive gaming application built with **Flutter & Dart**, featuring an algorithmic Minimax decision tree adversary with zero latency.
+- Features dynamic difficulty calibration, tactile haptic interactions, custom vector particle confetti celebrations, and in-memory match history analytics.
+- **Tech:** `Flutter` • `Dart` • `Minimax AI Engine` • `Game Logic` • `Mobile UI`
+
+---
+
+
 ### 🌌 [OmniBingeVerse](https://github.com/0xOpCode/omnibingeverse)
 > **High-Performance Cloudstream 3 Extension Ecosystem & Scrapers**
 - Curated repository delivering automated compilation of Kotlin/Android media scrapers, multi-source stream extractors, and mirror failover resolvers.
