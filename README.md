@@ -30,24 +30,18 @@
 
 ---
 
-### 🖥️ System Telemetry
+### ⚡ About Me & Engineering Profile
 
-```json
-{
-  "engineer": "Akash Deep",
-  "callsign": "0xOpCode",
-  "education": "B.Tech in Electronics & Communication Engineering",
-  "institution": "Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow",
-  "cohort": "2026 — 2030",
-  "core_domains": [
-    "Autonomous Agentic AI & MCP Tooling",
-    "Cross-Platform Mobile Development (Flutter & Dart)",
-    "Cloud Infrastructure, CI/CD & Edge Networking",
-    "Hardware-Software Interface & Embedded Logic"
-  ],
-  "philosophy": "Deterministic orchestration over superficial prompt-engineering."
-}
-```
+> [!NOTE]
+> **Akash Deep** (`@0xOpCode`) is an Electronics & Communication Engineering undergraduate at **Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow** (Cohort 2026–2030).
+> Exploring the intersection of low-level hardware protocols and high-level software intelligence — bridging embedded systems thinking with autonomous AI agents and modern mobile engineering.
+
+- 🎓 **Academic Base:** B.Tech in **Electronics & Communication Engineering** @ **BBAU, Lucknow** (`2026 — 2030`)
+- 🧠 **Autonomous AI:** Architecting multi-agent workflows (Claude Code), production **Model Context Protocol (MCP)** servers, and grounded LLM tool pipelines.
+- 📱 **Mobile Engineering:** Building cross-platform mobile products with **Flutter & Dart**, backed by zero-local-SDK cloud CI/CD compilation matrices.
+- 🌐 **Systems & Cloud:** Containerized WebSocket routing nodes, Linux environments (Arch / Debian), and automated continuous delivery.
+- 💡 **Core Mantra:** *“Deterministic execution, clean abstractions, and zero superficial bloat.”*
+
 
 ---
 
