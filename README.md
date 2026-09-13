@@ -3,14 +3,14 @@
   # ⚡ Akash Deep
   ### `@0xOpCode`
 
-  [![BBAU ECE](https://img.shields.io/badge/B.Tech%20ECE-BBAU%20Lucknow%20('26--'30)-0052CC?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
-  [![Status](https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20Mobile%20%7C%20Systems-00C853?style=for-the-badge)](#)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-akashdeepv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/akashdeepv)
+  [![BBAU ECE](https://img.shields.io/badge/B.Tech%20ECE-BBAU%20Lucknow%20('26--'30)-161B22?style=for-the-badge&logo=googlescholar&logoColor=F59E0B)](#)
+  [![Focus](https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20Mobile%20%7C%20Systems-161B22?style=for-the-badge&logo=cpu&logoColor=F59E0B)](#)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-akashdeepv-161B22?style=for-the-badge&logo=linkedin&logoColor=F59E0B)](https://in.linkedin.com/in/akashdeepv)
 
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00F5FF&center=true&vCenter=true&width=620&lines=B.Tech+ECE+%40+BBAU+Lucknow+(2026-2030);Autonomous+Multi-Agent+AI+Architect;Mobile+Engineer+(Flutter+%26+Dart);Production+MCP+Server+Developer;From+Low-Level+Circuits+to+Agentic+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=F59E0B&center=true&vCenter=true&width=620&lines=B.Tech+ECE+%40+BBAU+Lucknow+(2026-2030);Autonomous+Multi-Agent+AI+Architect;Mobile+Engineer+(Flutter+%26+Dart);Production+MCP+Server+Developer;From+Low-Level+Circuits+to+Agentic+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -22,7 +22,7 @@
   <p align="center">
     <a href="#-flagship-projects"><b>Flagship Projects</b></a> •
     <a href="#-technical-arsenal"><b>Technical Arsenal</b></a> •
-    <a href="#-system-telemetry"><b>Telemetry</b></a> •
+    <a href="#-about-me--engineering-profile"><b>Profile</b></a> •
     <a href="#-connect--collaborate"><b>Contact</b></a>
   </p>
 
@@ -41,7 +41,6 @@
 - 📱 **Mobile Engineering:** Building cross-platform mobile products with **Flutter & Dart**, backed by zero-local-SDK cloud CI/CD compilation matrices.
 - 🌐 **Systems & Cloud:** Containerized WebSocket routing nodes, Linux environments (Arch / Debian), and automated continuous delivery.
 - 💡 **Core Mantra:** *“Deterministic execution, clean abstractions, and zero superficial bloat.”*
-
 
 ---
 
@@ -80,7 +79,6 @@
 
 ---
 
-
 ### 🌌 [OmniBingeVerse](https://github.com/0xOpCode/omnibingeverse)
 > **High-Performance Cloudstream 3 Extension Ecosystem & Scrapers**
 - Curated repository delivering automated compilation of Kotlin/Android media scrapers, multi-source stream extractors, and mirror failover resolvers.
@@ -105,7 +103,6 @@
 
 ---
 
-
 ### 🚀 [astrotemplate](https://github.com/0xOpCode/astrotemplate)
 > **Modern Web Architecture Starter: Astro 5, React 19 & Tailwind**
 - Production-grade starter kit implementing Astro Islands architecture for zero-JS runtime baseline.
@@ -125,27 +122,27 @@
 ## 🛠️ Technical Arsenal
 
 ### 🧠 Agentic AI & Intelligence
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![Model Context Protocol](https://img.shields.io/badge/MCP%20Server%20Architecture-8A2BE2?style=flat-square&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Sub-Agent Orchestration](https://img.shields.io/badge/Sub--Agent%20Orchestration-00F5FF?style=flat-square&logoColor=black)
-![Live Grounding & Vision](https://img.shields.io/badge/Web%20Grounding%20%26%20Vision%20QA-34A853?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-161B22?style=flat-square&logo=anthropic&logoColor=D97706)
+![Model Context Protocol](https://img.shields.io/badge/MCP%20Server%20Architecture-161B22?style=flat-square&logoColor=F59E0B)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-161B22?style=flat-square&logo=google&logoColor=EA4335)
+![Sub-Agent Orchestration](https://img.shields.io/badge/Sub--Agent%20Orchestration-161B22?style=flat-square&logoColor=F59E0B)
+![Web Grounding & Vision](https://img.shields.io/badge/Web%20Grounding%20%26%20Vision%20QA-161B22?style=flat-square&logoColor=34A853)
 
 ### 📱 Mobile & Systems Engineering
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Arch%20%2F%20Debian-1793D1?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-161B22?style=flat-square&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-161B22?style=flat-square&logo=dart&logoColor=0175C2)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-161B22?style=flat-square&logo=android&logoColor=3DDC84)
+![Linux](https://img.shields.io/badge/Linux%20(Arch)-161B22?style=flat-square&logo=archlinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED)
+![Bash](https://img.shields.io/badge/Bash%20Scripting-161B22?style=flat-square&logo=gnubash&logoColor=4EAA25)
 
 ### 🌐 Backend, Web & DevOps
-![Python](https://img.shields.io/badge/Python%203-3776AB?style=flat-square&logo=python&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro%205-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python%203-161B22?style=flat-square&logo=python&logoColor=FFD43B)
+![Astro](https://img.shields.io/badge/Astro%205-161B22?style=flat-square&logo=astro&logoColor=FF5D01)
+![React](https://img.shields.io/badge/React%2019-161B22?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20CI%2FCD-161B22?style=flat-square&logo=githubactions&logoColor=2088FF)
 
 ---
 
@@ -158,11 +155,11 @@
   <br/>
 
   <a href="https://in.linkedin.com/in/akashdeepv">
-    <img src="https://img.shields.io/badge/LinkedIn-Akash%20Deep%20(akashdeepv)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Akash%20Deep%20(akashdeepv)-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/0xOpCode">
-    <img src="https://img.shields.io/badge/GitHub-0xOpCode-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0xOpCode-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br/><br/>
