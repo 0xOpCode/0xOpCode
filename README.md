@@ -20,7 +20,8 @@
   </p>
 
   <p align="center">
-    <a href="#-flagship-projects"><b>Flagship Projects</b></a> •
+    <a href="#-public-flagship-projects"><b>Public Projects</b></a> •
+    <a href="#-private-systems--infrastructure"><b>Private Systems</b></a> •
     <a href="#-technical-arsenal"><b>Technical Arsenal</b></a> •
     <a href="#-engineering-profile"><b>Profile</b></a> •
     <a href="#-connect--collaborate"><b>Contact</b></a>
@@ -43,13 +44,21 @@
 
 ---
 
-## 🏆 Flagship Projects
+## 🏆 Public Flagship Projects
 
 ### 🛠️ [ByteC](https://github.com/0xOpCode/ByteC)
 > **1-Click Native C and C++ Toolchain for Android Termux**
 - Deploys a full C/C++ compilation environment with Clang, CMake, GDB, and an Allman-configured Neovim editor.
 - Installs into Android Termux in under 120MB without requiring proot containers.
 - **Tech:** `C` • `C++` • `Clang` • `Neovim` • `Termux / Linux` • `Bash`
+
+---
+
+### 🤖 [tele-harness](https://github.com/0xOpCode/tele-harness)
+> **Agentic Engineering Harness for Telegram Bots & Mini Apps**
+- Provides specialized sub-agents (`tg-architect`, `tg-ux-engineer`, `tg-sec-auditor`) with FSM scaffolding, HMAC validation, and production skills.
+- Includes starter templates for Python (aiogram 3), Node.js (grammY), and Go (telebot) with a one-line installer.
+- **Tech:** `Multi-Agent Harness` • `Telegram Bot API` • `Python` • `TypeScript` • `Go`
 
 ---
 
@@ -69,15 +78,6 @@
 
 ---
 
-### 🌐 spirit-api `(Private Repository)`
-> **High-Performance OpenAI-Compatible LLM Gateway & Proxy**
-- FastAPI gateway providing unified streaming, API key authentication, and per-key rate limiting across Google Vertex and third-party LLM providers.
-- Validates request schemas and aggregates usage analytics through a single entry point.
-- Private project: deployed backend without public source distribution.
-- **Tech:** `Python` • `FastAPI` • `OpenAI API Spec` • `Vertex AI` • `AsyncIO`
-
----
-
 ### 📱 [ZenMath](https://github.com/0xOpCode/zenmath)
 > **Interactive Mathematics Practice & Learning Mobile Application**
 - Cross-platform educational app built with **Flutter & Dart** featuring skill-evaluation algorithms and student progress tracking.
@@ -86,19 +86,45 @@
 
 ---
 
-### 🤖 [tele-harness](https://github.com/0xOpCode/tele-harness)
-> **Agentic Engineering Harness for Telegram Bots & Mini Apps**
-- Provides specialized sub-agents (`tg-architect`, `tg-ux-engineer`, `tg-sec-auditor`) with FSM scaffolding, HMAC validation, and production skills.
-- Includes starter templates for Python (aiogram 3), Node.js (grammY), and Go (telebot) with a one-line installer.
-- **Tech:** `Multi-Agent Harness` • `Telegram Bot API` • `Python` • `TypeScript` • `Go`
-
----
-
 ### 🎮 [CyberTacToe](https://github.com/0xOpCode/cybertactoe)
 > **Cyberpunk Tic Tac Toe with Minimax AI Engine**
 - Interactive mobile game built with Flutter and Dart, backed by an algorithmic Minimax decision tree with zero latency.
 - Includes dynamic difficulty adjustments, haptic feedback, and local match analytics.
 - **Tech:** `Flutter` • `Dart` • `Minimax Algorithm` • `Mobile UI`
+
+---
+
+## 🔒 Private Systems & Infrastructure
+
+### 🌐 spirit-api `(Private Repository)`
+> **High-Performance OpenAI-Compatible LLM Gateway & Proxy**
+- FastAPI gateway providing unified streaming, API key authentication, and per-key rate limiting across Google Vertex and third-party LLM providers.
+- Validates request schemas and aggregates usage analytics through a single entry point.
+- **Tech:** `Python` • `FastAPI` • `OpenAI API Spec` • `Vertex AI` • `AsyncIO`
+
+---
+
+### 📺 watch-cli `(Private Repository)`
+> **Terminal Media Streaming & Scraper Client**
+- CLI video player integration and multi-source web scraper for streaming media through the command line.
+- Extracts streaming links and pipes raw media streams into mpv or ffmpeg with low latency.
+- **Tech:** `Python` • `CLI Architecture` • `Web Scraping` • `Stream Extraction` • `mpv`
+
+---
+
+### 📬 mail2telegram `(Private Repository)`
+> **Automated IMAP to Telegram Notification Gateway**
+- Background daemon polling IMAP and SMTP mailboxes for incoming messages.
+- Filters priority senders, converts HTML mail bodies into structured Telegram messages, and dispatches alerts to target chat IDs.
+- **Tech:** `Python` • `IMAP / SMTP` • `Telegram Bot API` • `AsyncIO` • `HTML Sanitization`
+
+---
+
+### 🛡️ libauthenticate / defender_lib `(Private Repository)`
+> **Systems Licensing & Security Verification Layer**
+- Client-server authorization framework enforcing hardware-identifier hashing, token-bucket validation, and encrypted payload exchanges.
+- Blocks unauthorized binary execution and prevents replay attacks through cryptographic nonces.
+- **Tech:** `C / Python` • `Cryptography` • `HWID Hashing` • `HMAC Authentication` • `Network Security`
 
 ---
 
