@@ -69,10 +69,11 @@
 
 ---
 
-### 🌐 [spirit-api](https://github.com/0xOpCode/spirit-api)
+### 🌐 spirit-api `(Private Repository)`
 > **High-Performance OpenAI-Compatible LLM Gateway & Proxy**
 - FastAPI gateway providing unified streaming, API key authentication, and per-key rate limiting across Google Vertex and third-party LLM providers.
 - Validates request schemas and aggregates usage analytics through a single entry point.
+- Private project: deployed backend without public source distribution.
 - **Tech:** `Python` • `FastAPI` • `OpenAI API Spec` • `Vertex AI` • `AsyncIO`
 
 ---
