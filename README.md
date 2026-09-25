@@ -85,11 +85,11 @@
 
 ---
 
-### 🤖 [TelegramBotExpert](https://github.com/0xOpCode/TelegramBotExpert)
-> **Autonomous Multi-Agent AI Architecture for Telegram Bots**
-- Built on top of Claude Code primitives to provide specialized agents for schema modeling, inline UI engineering, and webhook security audits.
-- Implements finite-state machine scaffolding and session memory management.
-- **Tech:** `Claude Code` • `Multi-Agent System` • `Python` • `Node.js` • `Telegram Bot API`
+### 🤖 [tele-harness](https://github.com/0xOpCode/tele-harness)
+> **Agentic Engineering Harness for Telegram Bots & Mini Apps**
+- Provides specialized sub-agents (`tg-architect`, `tg-ux-engineer`, `tg-sec-auditor`) with FSM scaffolding, HMAC validation, and production skills.
+- Includes starter templates for Python (aiogram 3), Node.js (grammY), and Go (telebot) with a one-line installer.
+- **Tech:** `Multi-Agent Harness` • `Telegram Bot API` • `Python` • `TypeScript` • `Go`
 
 ---
 
