@@ -16,7 +16,7 @@
   <p align="center">
     <b>Computer Science and Engineering undergraduate at Babasaheb Bhimrao Ambedkar University, Lucknow.</b>
     <br/>
-    Building autonomous multi-agent systems, Model Context Protocol (MCP) servers, Flutter mobile applications, and low-level Linux tooling.
+    I build autonomous multi-agent systems, Model Context Protocol (MCP) servers, Flutter mobile applications, and low-level Linux tooling.
   </p>
 
   <p align="center">
@@ -34,8 +34,8 @@
 ### Engineering Profile
 
 > [!NOTE]
-> **Akash Deep** (`@0xOpCode`) is a Computer Science and Engineering undergraduate at **Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow** (Cohort 2026-2030).
-> Primary work spans agentic AI orchestration, custom MCP servers, Linux systems engineering, and cross-platform mobile applications.
+> I am **Akash Deep** (`@0xOpCode`), a Computer Science and Engineering undergraduate at **Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow** (Cohort 2026-2030).
+> My work spans agentic AI orchestration, custom MCP servers, Linux systems engineering, and cross-platform mobile applications.
 
 - 🎓 **Academic Base:** B.Tech in **Computer Science and Engineering** @ **BBAU, Lucknow** (`2026 - 2030`)
 - 🧠 **Autonomous AI:** Multi-agent workflows, production **Model Context Protocol (MCP)** servers, and structured tool-calling pipelines.
