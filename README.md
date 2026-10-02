@@ -35,7 +35,7 @@
 
   ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=0xOpCode&show_icons=true&theme=github_dark&bg_color=161B22&title_color=F59E0B&icon_color=F59E0B&text_color=C9D1D9&border_color=30363D" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xOpCode&show_icons=true&include_all_commits=true&theme=github_dark&bg_color=161B22&title_color=F59E0B&icon_color=F59E0B&text_color=C9D1D9&border_color=30363D" height="180" />
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=0xOpCode&theme=dark&background=161B22&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&border=30363D" height="180" />
 
@@ -183,12 +183,6 @@ Client-server auth framework enforcing hardware-identifier hashing, token-bucket
 
   ## 📈 Activity
 
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xOpCode&bg_color=161B22&color=C9D1D9&line=F59E0B&point=FFFFFF&area=true&area_color=F59E0B&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
-
-  <br/><br/>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/0xOpCode/0xOpCode/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/0xOpCode/0xOpCode/blob/output/github-contribution-grid-snake.svg" />
@@ -215,6 +209,10 @@ Client-server auth framework enforcing hardware-identifier hashing, token-bucket
   &nbsp;&nbsp;
   <a href="https://github.com/0xOpCode">
     <img src="https://img.shields.io/badge/GitHub-0xOpCode-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/justliebertjohan">
+    <img src="https://img.shields.io/badge/Discord-justliebertjohan-161B22?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
   </a>
 
   <br/><br/>
